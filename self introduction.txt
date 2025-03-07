@@ -1,0 +1,9 @@
+Hello, I am Anvesh, a passionate and goal-oriented individual with a strong foundation in technology and training. During my internship at DRDO, I had the privilege of leading a team on a project that integrated advanced Django features and multi-model LLMs, enabling dynamic real-time functionalities. This experience honed my leadership and technical skills, preparing me to tackle complex challenges effectively.
+
+In addition, I earned the AWS Certified Cloud Practitioner certification, which deepened my understanding of cloud infrastructure and its practical applications.
+
+After completing my B.Tech, I ventured into freelancing, where I provided CRT training. I focused on core Java and DSA using C, helping students build a robust understanding of fundamental concepts and problem-solving skills.
+
+My strengths lie in persistence and resilience, which have consistently driven me to overcome challenges and achieve my goals. I enjoy playing chess and listening to music, both of which enhance my strategic thinking and creativity. Looking ahead, my goal is to grow into a project lead role within the next five years, contributing meaningfully to innovative projects and inspiring a team to achieve excellence.
+
+Thank you!
